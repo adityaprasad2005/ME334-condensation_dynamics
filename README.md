@@ -6,7 +6,7 @@ This repository contains the final report for a project investigating condensati
 
 Below is an image of the experimental setup used for data collection.
 
-!(experimental_setup.jpg)
+!(experimental_setup.png)
 ## Project Report
 
 The detailed findings, analysis, and conclusions of the project are presented in the `project_report.pdf` file.
